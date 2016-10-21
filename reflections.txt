@@ -13,7 +13,7 @@ Your response goes here!
 -> What new skills have you learned?
     - Two new tags: sup and s
     - How to use the article tag properly
-    - A little bit more of HTML5 semantics and content sectioning elements.
+    - A little bit more about HTML5 semantics and content sectioning elements.
 
 -> What has been easy?
     - Since I had some previous knowledge on web development, the development
